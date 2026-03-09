@@ -1,0 +1,23 @@
+<! DOCTYPE html>
+
+ 	<html lang=“vi”>
+
+ 		<head>
+
+ 			<tille> thong tin ca nhan </tille>
+
+ 			<meta charse=“utf-8”>
+
+ 		</head>
+
+ 		<body>
+
+ 			<h1>Đặng Ngọc Thảo</h1>
+
+ 			<h2>mssv 110125157</h2>
+
+ 			<h3>sinh ngay 15/03/2007</h3>
+
+ 		</body>
+
+ 	</html>
